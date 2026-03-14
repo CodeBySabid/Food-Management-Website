@@ -21,7 +21,7 @@ This project is designed to demonstrate frontend web development skills and basi
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Bootstrap / Tailwind (if used)**
+- **Tailwind CSS**
 - **Git & GitHub**
 
 ---
